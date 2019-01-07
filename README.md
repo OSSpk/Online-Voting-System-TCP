@@ -51,7 +51,7 @@ If you liked the repo then kindly support it by giving it a star ⭐!
 If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
 
 ## Issues
-[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Online-Voting-System-TCP.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Doubly-and-Singly-Linked-List/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Online-Voting-System-TCP.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Online-Voting-System-TCP/issues)
 
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
 
