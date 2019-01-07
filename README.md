@@ -15,6 +15,7 @@ System should be secure and should only allow clients with authentic name and CN
 
 ## Complete Workflow
 The Server shall:
+
 •	First of all take the **client’s name and CNIC** and match it with the content of the text file **(Voters_List.txt)**. 
 
 •	If the details match, then it will **welcome the voter** and display the names and poll symbols of the candidates on the terminal.(Candidates_List.txt) 
