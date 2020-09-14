@@ -1,7 +1,6 @@
 # 🗳️ Online Voting System using Multi-Threaded TCP Sockets
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 [![GitHub Forks](https://img.shields.io/github/forks/harismuneer/Online-Voting-System-TCP.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/harismuneer/Online-Voting-System-TCP/fork)
-[![Build Status](https://semaphoreapp.com/api/v1/projects/d4cca506-99be-44d2-b19e-176f36ec8cf1/128505/badge.svg)](#)
 [![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Online-Voting-System-TCP.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Online-Voting-System-TCP/issues)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
